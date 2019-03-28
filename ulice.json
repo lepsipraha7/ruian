@@ -1,0 +1,422 @@
+[
+  {
+    "id": "469688",
+    "nazev": "Sochařská"
+  },
+  {
+    "id": "474975",
+    "nazev": "U studánky"
+  },
+  {
+    "id": "479276",
+    "nazev": "Za viaduktem"
+  },
+  {
+    "id": "449571",
+    "nazev": "Jateční"
+  },
+  {
+    "id": "480215",
+    "nazev": "Železničářů"
+  },
+  {
+    "id": "507393",
+    "nazev": "nábřeží Edvarda Beneše"
+  },
+  {
+    "id": "467103",
+    "nazev": "Přístavní"
+  },
+  {
+    "id": "451274",
+    "nazev": "Kamenická"
+  },
+  {
+    "id": "473758",
+    "nazev": "U letenského sadu"
+  },
+  {
+    "id": "452581",
+    "nazev": "Jana Zajíce"
+  },
+  {
+    "id": "444863",
+    "nazev": "Čechova"
+  },
+  {
+    "id": "470481",
+    "nazev": "Strojnická"
+  },
+  {
+    "id": "796433",
+    "nazev": "V přístavu"
+  },
+  {
+    "id": "459577",
+    "nazev": "Na Špejcharu"
+  },
+  {
+    "id": "450235",
+    "nazev": "Jirečkova"
+  },
+  {
+    "id": "477842",
+    "nazev": "Vinařská"
+  },
+  {
+    "id": "480762",
+    "nazev": "nábřeží Kapitána Jaroše"
+  },
+  {
+    "id": "468355",
+    "nazev": "Řezáčovo náměstí"
+  },
+  {
+    "id": "474754",
+    "nazev": "U smaltovny"
+  },
+  {
+    "id": "444324",
+    "nazev": "Bubenská"
+  },
+  {
+    "id": "449199",
+    "nazev": "Jablonského"
+  },
+  {
+    "id": "472867",
+    "nazev": "U akademie"
+  },
+  {
+    "id": "479098",
+    "nazev": "Za papírnou"
+  },
+  {
+    "id": "470490",
+    "nazev": "Strossmayerovo náměstí"
+  },
+  {
+    "id": "463388",
+    "nazev": "Ovenecká"
+  },
+  {
+    "id": "474151",
+    "nazev": "U papírny"
+  },
+  {
+    "id": "508845",
+    "nazev": "Za Císařským mlýnem"
+  },
+  {
+    "id": "451924",
+    "nazev": "Keramická"
+  },
+  {
+    "id": "444332",
+    "nazev": "Bubenské nábřeží"
+  },
+  {
+    "id": "447439",
+    "nazev": "Havanská"
+  },
+  {
+    "id": "467138",
+    "nazev": "Přívozní"
+  },
+  {
+    "id": "452815",
+    "nazev": "Korunovační"
+  },
+  {
+    "id": "474193",
+    "nazev": "U parního mlýna"
+  },
+  {
+    "id": "445738",
+    "nazev": "Dobrovského"
+  },
+  {
+    "id": "464279",
+    "nazev": "Plynární"
+  },
+  {
+    "id": "449466",
+    "nazev": "Janovského"
+  },
+  {
+    "id": "474487",
+    "nazev": "U průhonu"
+  },
+  {
+    "id": "460419",
+    "nazev": "Na zátorách"
+  },
+  {
+    "id": "458597",
+    "nazev": "Na ovčinách"
+  },
+  {
+    "id": "454346",
+    "nazev": "Letenské sady"
+  },
+  {
+    "id": "474860",
+    "nazev": "U staré plynárny"
+  },
+  {
+    "id": "473855",
+    "nazev": "U městských domů"
+  },
+  {
+    "id": "475777",
+    "nazev": "Umělecká"
+  },
+  {
+    "id": "469149",
+    "nazev": "Skalecká"
+  },
+  {
+    "id": "478911",
+    "nazev": "Za elektrárnou"
+  },
+  {
+    "id": "456187",
+    "nazev": "Badeniho"
+  },
+  {
+    "id": "477613",
+    "nazev": "Veletržní"
+  },
+  {
+    "id": "471704",
+    "nazev": "Ostrov Štvanice"
+  },
+  {
+    "id": "444634",
+    "nazev": "Císařský ostrov"
+  },
+  {
+    "id": "463248",
+    "nazev": "Osadní"
+  },
+  {
+    "id": "476137",
+    "nazev": "V háji"
+  },
+  {
+    "id": "473847",
+    "nazev": "U měšťanského pivovaru"
+  },
+  {
+    "id": "477176",
+    "nazev": "V závětří"
+  },
+  {
+    "id": "453765",
+    "nazev": "Františka Křížka"
+  },
+  {
+    "id": "454371",
+    "nazev": "Letohradská"
+  },
+  {
+    "id": "471330",
+    "nazev": "Šmeralova"
+  },
+  {
+    "id": "481203",
+    "nazev": "Královská obora"
+  },
+  {
+    "id": "474665",
+    "nazev": "U Výstaviště"
+  },
+  {
+    "id": "452891",
+    "nazev": "Kostelní"
+  },
+  {
+    "id": "455440",
+    "nazev": "Malá Plynární"
+  },
+  {
+    "id": "2050218",
+    "nazev": "Sanderova"
+  },
+  {
+    "id": "446602",
+    "nazev": "Farského"
+  },
+  {
+    "id": "443034",
+    "nazev": "Argentinská"
+  },
+  {
+    "id": "466263",
+    "nazev": "Poupětova"
+  },
+  {
+    "id": "456799",
+    "nazev": "Muzejní"
+  },
+  {
+    "id": "475424",
+    "nazev": "U vody"
+  },
+  {
+    "id": "460940",
+    "nazev": "Nad Královskou oborou"
+  },
+  {
+    "id": "456438",
+    "nazev": "Tusarova"
+  },
+  {
+    "id": "446165",
+    "nazev": "Dukelských hrdinů"
+  },
+  {
+    "id": "461521",
+    "nazev": "Nad štolou"
+  },
+  {
+    "id": "458376",
+    "nazev": "Na Maninách"
+  },
+  {
+    "id": "463647",
+    "nazev": "Partyzánská"
+  },
+  {
+    "id": "442933",
+    "nazev": "Antonínská"
+  },
+  {
+    "id": "469220",
+    "nazev": "Sládkova"
+  },
+  {
+    "id": "474258",
+    "nazev": "U Pergamenky"
+  },
+  {
+    "id": "477745",
+    "nazev": "Veverkova"
+  },
+  {
+    "id": "473197",
+    "nazev": "U elektrárny"
+  },
+  {
+    "id": "447391",
+    "nazev": "Haškova"
+  },
+  {
+    "id": "445550",
+    "nazev": "Ortenovo náměstí"
+  },
+  {
+    "id": "472263",
+    "nazev": "Tovární"
+  },
+  {
+    "id": "460303",
+    "nazev": "Na výšinách"
+  },
+  {
+    "id": "447757",
+    "nazev": "Heřmanova"
+  },
+  {
+    "id": "455423",
+    "nazev": "Stupkova"
+  },
+  {
+    "id": "469696",
+    "nazev": "Pplk. Sochora"
+  },
+  {
+    "id": "475254",
+    "nazev": "U Uranie"
+  },
+  {
+    "id": "462853",
+    "nazev": "Milady Horákové"
+  },
+  {
+    "id": "499820",
+    "nazev": "Varhulíkové"
+  },
+  {
+    "id": "455580",
+    "nazev": "Malířská"
+  },
+  {
+    "id": "454338",
+    "nazev": "Letenské náměstí"
+  },
+  {
+    "id": "463621",
+    "nazev": "Výstaviště"
+  },
+  {
+    "id": "459542",
+    "nazev": "Na šachtě"
+  },
+  {
+    "id": "815110",
+    "nazev": "Stromovka"
+  },
+  {
+    "id": "449423",
+    "nazev": "Jankovcova"
+  },
+  {
+    "id": "477095",
+    "nazev": "V zákoutí"
+  },
+  {
+    "id": "473219",
+    "nazev": "U garáží"
+  },
+  {
+    "id": "452599",
+    "nazev": "Komunardů"
+  },
+  {
+    "id": "445436",
+    "nazev": "Dělnická"
+  },
+  {
+    "id": "471208",
+    "nazev": "Šimáčkova"
+  },
+  {
+    "id": "467481",
+    "nazev": "Rajská"
+  },
+  {
+    "id": "447021",
+    "nazev": "Gerstnerova"
+  },
+  {
+    "id": "474819",
+    "nazev": "U Sparty"
+  },
+  {
+    "id": "469041",
+    "nazev": "Schnirchova"
+  },
+  {
+    "id": "478415",
+    "nazev": "Vrbenského"
+  },
+  {
+    "id": "475131",
+    "nazev": "U topíren"
+  },
+  {
+    "id": "471551",
+    "nazev": "Šternberkova"
+  }
+]
