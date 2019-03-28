@@ -1,0 +1,8 @@
+[submodule "source"]
+	path = source
+	url = git@github.com:lepsipraha7/ruian.git
+	branch = source
+[submodule "data"]
+	path = data
+	url = git@github.com:lepsipraha7/ruian.git
+	branch = master
