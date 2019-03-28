@@ -1,10 +1,12 @@
+#!/usr/bin/env ruby
+
 require 'nokogiri'
 require 'json'
 require 'rails'
 
 File.open("data/ulice.json","w") do |f|
-  @ulice = Dir.glob("ulice/*").collect{|filename|
-    data = Nokogiri::XML.parse(File.read("ruian_head.xml")+File.read(filename))
+  @ulice = Dir.glob("source/ulice/*").collect{|filename|
+    data = Nokogiri::XML.parse(File.read("source/ruian_head.xml")+File.read(filename))
     {
       id: data.at("//uli:Kod").inner_text,
       nazev: data.at("//uli:Nazev").inner_text
@@ -14,8 +16,8 @@ File.open("data/ulice.json","w") do |f|
 end
 
 File.open("data/adresni_mista.json","w") do |f|
-  @adresni_mista = Dir.glob("adresni_mista/*").collect{|filename|
-    data = Nokogiri::XML.parse(File.read("ruian_head.xml")+File.read(filename))
+  @adresni_mista = Dir.glob("source/adresni_mista/*").collect{|filename|
+    data = Nokogiri::XML.parse(File.read("source/ruian_head.xml")+File.read(filename))
     if ulice_xml = data.at("//uli:Kod")
       ulice_kod = ulice_xml.inner_text
     end
@@ -31,9 +33,8 @@ File.open("data/adresni_mista.json","w") do |f|
 end
 
 File.open("data/stavebni_objekty.json","w") do |f|
-  @stavebni_objekty = Dir.glob("stavebni_objekty/*").collect{|filename|
-    data = Nokogiri::XML.parse(File.read("ruian_head.xml")+File.read(filename))
-    puts filename
+  @stavebni_objekty = Dir.glob("source/stavebni_objekty/*").collect{|filename|
+    data = Nokogiri::XML.parse(File.read("source/ruian_head.xml")+File.read(filename))
     id = data.at("//soi:Kod").inner_text
     if cast_obce_xml = data.at("//coi:Kod")
       cast_obce = cast_obce_xml.inner_text

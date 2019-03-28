@@ -1,13 +1,14 @@
 #egrep -n "<.?vf:StavebniObjekt[ >]" 20190301_OB_554782_UZSZ.xml > StavebniObjekty.list
 
-cd stavebni_objekt
-split -a10 -p "<vf:StavebniObjekt" 20190301_OB_554782_UZSZ.xml
+cd ./source
+cd stavebni_objekty
+split -a10 -p "<vf:StavebniObjekt" ../20190301_OB_554782_UZSZ.xml
 find . -name "x*"  -type f | xargs grep -Z -L '500186' | xargs rm
 rm xaaaaaaaaaa
 #oeditovat posledni
 cd ..
 
-cd adresni_misto
+cd adresni_mista
 split -a10 -p "<vf:AdresniMisto" ../20190301_OB_554782_UZSZ.xml
 rm xaaaaaaaaaa
 # oeditovat posledni
@@ -24,4 +25,5 @@ cd parcely
 split -a10 -p "<vf:Parcela" ../20190301_OB_554782_UZSZ.xml
 rm xaaaaaaaaaa
 # oeditovat posledni
+cd ..
 cd ..
