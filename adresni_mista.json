@@ -21828,16 +21828,6 @@
     }
   },
   {
-    "id": "30488621",
-    "cislo_domovni": "313",
-    "cislo_orientacni": "22",
-    "stavebni_objekt_kod": "22137157",
-    "ulice": {
-      "id": "445436",
-      "nazev": "Dělnická"
-    }
-  },
-  {
     "id": "30488672",
     "cislo_domovni": "366",
     "cislo_orientacni": "7",
@@ -22489,6 +22479,56 @@
     "ulice": {
       "id": "2050218",
       "nazev": "Sanderova"
+    }
+  },
+  {
+    "id": "79256554",
+    "cislo_domovni": "313",
+    "cislo_orientacni": "10",
+    "stavebni_objekt_kod": "22137157",
+    "ulice": {
+      "id": "463248",
+      "nazev": "Osadní"
+    }
+  },
+  {
+    "id": "79256571",
+    "cislo_domovni": "313",
+    "cislo_orientacni": "16",
+    "stavebni_objekt_kod": "22137157",
+    "ulice": {
+      "id": "445436",
+      "nazev": "Dělnická"
+    }
+  },
+  {
+    "id": "79256597",
+    "cislo_domovni": "313",
+    "cislo_orientacni": "18",
+    "stavebni_objekt_kod": "22137157",
+    "ulice": {
+      "id": "445436",
+      "nazev": "Dělnická"
+    }
+  },
+  {
+    "id": "79256694",
+    "cislo_domovni": "313",
+    "cislo_orientacni": "14",
+    "stavebni_objekt_kod": "22137157",
+    "ulice": {
+      "id": "445436",
+      "nazev": "Dělnická"
+    }
+  },
+  {
+    "id": "79256716",
+    "cislo_domovni": "313",
+    "cislo_orientacni": "16",
+    "stavebni_objekt_kod": "22137157",
+    "ulice": {
+      "id": "445436",
+      "nazev": "Dělnická"
     }
   }
 ]
