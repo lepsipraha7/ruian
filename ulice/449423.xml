@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.449423">
+            <uli:Kod>449423</uli:Kod>
+            <uli:Nazev>Jankovcova</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2018-02-12T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>2310348</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>1695592</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

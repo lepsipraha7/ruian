@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.478911">
+            <uli:Kod>478911</uli:Kod>
+            <uli:Nazev>Za elektrárnou</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2018-01-29T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>2292558</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>1685548</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

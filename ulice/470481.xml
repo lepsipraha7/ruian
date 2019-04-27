@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.470481">
+            <uli:Kod>470481</uli:Kod>
+            <uli:Nazev>Strojnická</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2014-11-26T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>739341</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>648728</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

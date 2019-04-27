@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.462853">
+            <uli:Kod>462853</uli:Kod>
+            <uli:Nazev>Milady Horákové</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2018-11-13T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>2630381</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>1884355</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

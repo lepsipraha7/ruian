@@ -1,0 +1,27 @@
+         <vf:AdresniMisto gml:id="AD.25821199">
+            <ami:Kod>25821199</ami:Kod>
+            <ami:CisloDomovni>1564</ami:CisloDomovni>
+            <ami:CisloOrientacni>57</ami:CisloOrientacni>
+            <ami:Psc>17000</ami:Psc>
+            <ami:StavebniObjekt>
+               <soi:Kod>25323903</soi:Kod>
+            </ami:StavebniObjekt>
+            <ami:Ulice>
+               <uli:Kod>456438</uli:Kod>
+            </ami:Ulice>
+            <ami:VOKod>26067</ami:VOKod>
+            <ami:PlatiOd>2017-06-06T00:00:00</ami:PlatiOd>
+            <ami:IdTransakce>1882665</ami:IdTransakce>
+            <ami:GlobalniIdNavrhuZmeny>1391879</ami:GlobalniIdNavrhuZmeny>
+            <ami:Geometrie>
+               <ami:DefinicniBod>
+                  <ami:AdresniBod>
+                     <gml:Point gml:id="DAM.25821199.1"
+                                srsName="urn:ogc:def:crs:EPSG::5514"
+                                srsDimension="2">
+                        <gml:pos>-740234.43 -1041729.55</gml:pos>
+                     </gml:Point>
+                  </ami:AdresniBod>
+               </ami:DefinicniBod>
+            </ami:Geometrie>
+         </vf:AdresniMisto>

@@ -1,0 +1,31 @@
+         <vf:Parcela gml:id="PA.2883850101">
+            <pai:Id>2883850101</pai:Id>
+            <pai:KmenoveCislo>1300</pai:KmenoveCislo>
+            <pai:PododdeleniCisla>2</pai:PododdeleniCisla>
+            <pai:VymeraParcely>14</pai:VymeraParcely>
+            <pai:DruhCislovaniKod>2</pai:DruhCislovaniKod>
+            <pai:DruhPozemkuKod>13</pai:DruhPozemkuKod>
+            <pai:KatastralniUzemi>
+               <kui:Kod>730122</kui:Kod>
+            </pai:KatastralniUzemi>
+            <pai:PlatiOd>2009-06-22T00:00:00</pai:PlatiOd>
+            <pai:IdTransakce>0</pai:IdTransakce>
+            <pai:RizeniId>9615992101</pai:RizeniId>
+            <pai:ZpusobyOchranyPozemku>
+               <com:ZpusobOchrany>
+                  <com:Kod>17</com:Kod>
+                  <com:TypOchranyKod>2</com:TypOchranyKod>
+                  <com:IdTransakce>647219</com:IdTransakce>
+                  <com:RizeniId>32036903010</com:RizeniId>
+               </com:ZpusobOchrany>
+            </pai:ZpusobyOchranyPozemku>
+            <pai:Geometrie>
+               <pai:DefinicniBod>
+                  <gml:Point gml:id="DPA.2883850101"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-741518.39 -1041749.18</gml:pos>
+                  </gml:Point>
+               </pai:DefinicniBod>
+            </pai:Geometrie>
+         </vf:Parcela>

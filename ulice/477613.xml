@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.477613">
+            <uli:Kod>477613</uli:Kod>
+            <uli:Nazev>Veletržní</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2014-11-26T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>739341</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>648728</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

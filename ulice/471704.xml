@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.471704">
+            <uli:Kod>471704</uli:Kod>
+            <uli:Nazev>Ostrov Štvanice</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2018-01-22T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>2276663</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>1672583</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

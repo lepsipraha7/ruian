@@ -1,0 +1,32 @@
+         <vf:StavebniObjekt gml:id="SO.27729630">
+            <soi:Kod>27729630</soi:Kod>
+            <soi:CislaDomovni>
+               <com:CisloDomovni>1599</com:CisloDomovni>
+            </soi:CislaDomovni>
+            <soi:IdentifikacniParcela>
+               <pai:Id>3642452101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>14</soi:ZpusobVyuzitiKod>
+            <soi:CastObce>
+               <coi:Kod>490067</coi:Kod>
+            </soi:CastObce>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2011-07-01T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>0</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>0</soi:IdTransakce>
+            <soi:IsknBudovaId>1387825101</soi:IsknBudovaId>
+            <soi:Dokonceni>2010-11-09T00:00:00</soi:Dokonceni>
+            <soi:PocetBytu>0</soi:PocetBytu>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.27729630"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-741367.60 -1041620.21</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

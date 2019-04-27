@@ -1,0 +1,39 @@
+         <vf:StavebniObjekt gml:id="SO.22153764">
+            <soi:Kod>22153764</soi:Kod>
+            <soi:CislaDomovni>
+               <com:CisloDomovni>300</com:CisloDomovni>
+            </soi:CislaDomovni>
+            <soi:IdentifikacniParcela>
+               <pai:Id>2401649101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>3</soi:ZpusobVyuzitiKod>
+            <soi:CastObce>
+               <coi:Kod>490024</coi:Kod>
+            </soi:CastObce>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2018-10-18T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1867195</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>2594848</soi:IdTransakce>
+            <soi:IsknBudovaId>1019828101</soi:IsknBudovaId>
+            <soi:DruhKonstrukceKod>10</soi:DruhKonstrukceKod>
+            <soi:PocetBytu>8</soi:PocetBytu>
+            <soi:PocetPodlazi>6</soi:PocetPodlazi>
+            <soi:PripojeniKanalizaceKod>1</soi:PripojeniKanalizaceKod>
+            <soi:PripojeniPlynKod>1</soi:PripojeniPlynKod>
+            <soi:PripojeniVodovodKod>1</soi:PripojeniVodovodKod>
+            <soi:VybaveniVytahemKod>1</soi:VybaveniVytahemKod>
+            <soi:ZastavenaPlocha>344</soi:ZastavenaPlocha>
+            <soi:ZpusobVytapeniKod>4</soi:ZpusobVytapeniKod>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.22153764"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-742657.27 -1041370.69</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

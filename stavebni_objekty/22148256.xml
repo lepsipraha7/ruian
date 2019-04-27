@@ -1,0 +1,44 @@
+         <vf:StavebniObjekt gml:id="SO.22148256">
+            <soi:Kod>22148256</soi:Kod>
+            <soi:CislaDomovni>
+               <com:CisloDomovni>1501</com:CisloDomovni>
+            </soi:CislaDomovni>
+            <soi:IdentifikacniParcela>
+               <pai:Id>2303650101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>6</soi:ZpusobVyuzitiKod>
+            <soi:CastObce>
+               <coi:Kod>490067</coi:Kod>
+            </soi:CastObce>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2011-07-01T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>0</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>0</soi:IdTransakce>
+            <soi:IsknBudovaId>977794101</soi:IsknBudovaId>
+            <soi:DruhKonstrukceKod>9</soi:DruhKonstrukceKod>
+            <soi:PocetBytu>45</soi:PocetBytu>
+            <soi:PripojeniKanalizaceKod>1</soi:PripojeniKanalizaceKod>
+            <soi:PripojeniPlynKod>1</soi:PripojeniPlynKod>
+            <soi:PripojeniVodovodKod>1</soi:PripojeniVodovodKod>
+            <soi:ZpusobVytapeniKod>2</soi:ZpusobVytapeniKod>
+            <soi:ZpusobyOchrany>
+               <com:ZpusobOchrany>
+                  <com:Kod>4</com:Kod>
+                  <com:TypOchranyKod>0</com:TypOchranyKod>
+                  <com:IdTransakce>0</com:IdTransakce>
+                  <com:RizeniId>9615992101</com:RizeniId>
+               </com:ZpusobOchrany>
+            </soi:ZpusobyOchrany>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.22148256"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-740630.56 -1041575.42</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.474193">
+            <uli:Kod>474193</uli:Kod>
+            <uli:Nazev>U parního mlýna</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2014-11-18T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>733431</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>646454</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

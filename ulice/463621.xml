@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.463621">
+            <uli:Kod>463621</uli:Kod>
+            <uli:Nazev>Výstaviště</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2016-02-02T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>1102415</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>836829</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

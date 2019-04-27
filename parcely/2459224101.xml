@@ -1,0 +1,23 @@
+         <vf:Parcela gml:id="PA.2459224101">
+            <pai:Id>2459224101</pai:Id>
+            <pai:KmenoveCislo>222</pai:KmenoveCislo>
+            <pai:PododdeleniCisla>3</pai:PododdeleniCisla>
+            <pai:VymeraParcely>404</pai:VymeraParcely>
+            <pai:DruhCislovaniKod>2</pai:DruhCislovaniKod>
+            <pai:DruhPozemkuKod>13</pai:DruhPozemkuKod>
+            <pai:KatastralniUzemi>
+               <kui:Kod>730122</kui:Kod>
+            </pai:KatastralniUzemi>
+            <pai:PlatiOd>2013-11-13T00:00:00</pai:PlatiOd>
+            <pai:IdTransakce>393360</pai:IdTransakce>
+            <pai:RizeniId>28025630010</pai:RizeniId>
+            <pai:Geometrie>
+               <pai:DefinicniBod>
+                  <gml:Point gml:id="DPA.2459224101"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-741192.78 -1040838.25</gml:pos>
+                  </gml:Point>
+               </pai:DefinicniBod>
+            </pai:Geometrie>
+         </vf:Parcela>

@@ -1,0 +1,15 @@
+         <vf:AdresniMisto gml:id="AD.22297332">
+            <ami:Kod>22297332</ami:Kod>
+            <ami:CisloDomovni>237</ami:CisloDomovni>
+            <ami:CisloOrientacni>4</ami:CisloOrientacni>
+            <ami:Psc>17000</ami:Psc>
+            <ami:StavebniObjekt>
+               <soi:Kod>22136771</soi:Kod>
+            </ami:StavebniObjekt>
+            <ami:Ulice>
+               <uli:Kod>463647</uli:Kod>
+            </ami:Ulice>
+            <ami:PlatiOd>2011-07-01T00:00:00</ami:PlatiOd>
+            <ami:IdTransakce>0</ami:IdTransakce>
+            <ami:GlobalniIdNavrhuZmeny>0</ami:GlobalniIdNavrhuZmeny>
+         </vf:AdresniMisto>

@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.463647">
+            <uli:Kod>463647</uli:Kod>
+            <uli:Nazev>Partyzánská</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2018-02-02T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>2299095</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>1688996</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

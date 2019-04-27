@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.474975">
+            <uli:Kod>474975</uli:Kod>
+            <uli:Nazev>U studánky</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2014-11-25T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>738269</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>648311</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

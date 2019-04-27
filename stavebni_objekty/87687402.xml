@@ -1,0 +1,33 @@
+         <vf:StavebniObjekt gml:id="SO.87687402">
+            <soi:Kod>87687402</soi:Kod>
+            <soi:IdentifikacniParcela>
+               <pai:Id>59004429010</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>3</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>19</soi:ZpusobVyuzitiKod>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2017-03-02T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1296622</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>1744764</soi:IdTransakce>
+            <soi:IsknBudovaId>24818773010</soi:IsknBudovaId>
+            <soi:DruhKonstrukceKod>1</soi:DruhKonstrukceKod>
+            <soi:PocetPodlazi>1</soi:PocetPodlazi>
+            <soi:PodlahovaPlocha>1138</soi:PodlahovaPlocha>
+            <soi:PripojeniKanalizaceKod>1</soi:PripojeniKanalizaceKod>
+            <soi:PripojeniPlynKod>1</soi:PripojeniPlynKod>
+            <soi:PripojeniVodovodKod>1</soi:PripojeniVodovodKod>
+            <soi:VybaveniVytahemKod>2</soi:VybaveniVytahemKod>
+            <soi:ZastavenaPlocha>1252</soi:ZastavenaPlocha>
+            <soi:ZpusobVytapeniKod>1</soi:ZpusobVytapeniKod>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.87687402"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-743218.92 -1040467.76</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

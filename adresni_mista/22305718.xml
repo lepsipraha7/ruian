@@ -1,0 +1,27 @@
+         <vf:AdresniMisto gml:id="AD.22305718">
+            <ami:Kod>22305718</ami:Kod>
+            <ami:CisloDomovni>992</ami:CisloDomovni>
+            <ami:CisloOrientacni>46</ami:CisloOrientacni>
+            <ami:Psc>17000</ami:Psc>
+            <ami:StavebniObjekt>
+               <soi:Kod>22143297</soi:Kod>
+            </ami:StavebniObjekt>
+            <ami:Ulice>
+               <uli:Kod>449466</uli:Kod>
+            </ami:Ulice>
+            <ami:VOKod>26081</ami:VOKod>
+            <ami:PlatiOd>2017-06-29T00:00:00</ami:PlatiOd>
+            <ami:IdTransakce>1929179</ami:IdTransakce>
+            <ami:GlobalniIdNavrhuZmeny>1427182</ami:GlobalniIdNavrhuZmeny>
+            <ami:Geometrie>
+               <ami:DefinicniBod>
+                  <ami:AdresniBod>
+                     <gml:Point gml:id="DAM.22305718.1"
+                                srsName="urn:ogc:def:crs:EPSG::5514"
+                                srsDimension="2">
+                        <gml:pos>-741715.35 -1041351.38</gml:pos>
+                     </gml:Point>
+                  </ami:AdresniBod>
+               </ami:DefinicniBod>
+            </ami:Geometrie>
+         </vf:AdresniMisto>

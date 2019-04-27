@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.2050218">
+            <uli:Kod>2050218</uli:Kod>
+            <uli:Nazev>Sanderova</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2017-10-19T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>2083527</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>1528612</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

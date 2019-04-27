@@ -1,0 +1,45 @@
+         <vf:StavebniObjekt gml:id="SO.26223244">
+            <soi:Kod>26223244</soi:Kod>
+            <soi:CislaDomovni>
+               <com:CisloDomovni>1576</com:CisloDomovni>
+            </soi:CislaDomovni>
+            <soi:IdentifikacniParcela>
+               <pai:Id>2303165101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>15</soi:ZpusobVyuzitiKod>
+            <soi:CastObce>
+               <coi:Kod>490067</coi:Kod>
+            </soi:CastObce>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2011-07-01T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>0</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>0</soi:IdTransakce>
+            <soi:IsknBudovaId>977860101</soi:IsknBudovaId>
+            <soi:Dokonceni>2007-05-17T00:00:00</soi:Dokonceni>
+            <soi:PocetBytu>7</soi:PocetBytu>
+            <soi:PripojeniKanalizaceKod>1</soi:PripojeniKanalizaceKod>
+            <soi:PripojeniPlynKod>1</soi:PripojeniPlynKod>
+            <soi:PripojeniVodovodKod>1</soi:PripojeniVodovodKod>
+            <soi:VybaveniVytahemKod>2</soi:VybaveniVytahemKod>
+            <soi:ZpusobVytapeniKod>1</soi:ZpusobVytapeniKod>
+            <soi:ZpusobyOchrany>
+               <com:ZpusobOchrany>
+                  <com:Kod>4</com:Kod>
+                  <com:TypOchranyKod>0</com:TypOchranyKod>
+                  <com:IdTransakce>0</com:IdTransakce>
+                  <com:RizeniId>9615992101</com:RizeniId>
+               </com:ZpusobOchrany>
+            </soi:ZpusobyOchrany>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.26223244"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-740255.43 -1041209.26</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

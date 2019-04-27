@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.446165">
+            <uli:Kod>446165</uli:Kod>
+            <uli:Nazev>Dukelských hrdinů</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2016-02-03T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>1104417</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>837698</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>

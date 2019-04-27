@@ -1,0 +1,10 @@
+         <vf:Ulice gml:id="UL.499820">
+            <uli:Kod>499820</uli:Kod>
+            <uli:Nazev>Varhulíkové</uli:Nazev>
+            <uli:Obec>
+               <obi:Kod>554782</obi:Kod>
+            </uli:Obec>
+            <uli:PlatiOd>2011-07-01T00:00:00</uli:PlatiOd>
+            <uli:IdTransakce>0</uli:IdTransakce>
+            <uli:GlobalniIdNavrhuZmeny>0</uli:GlobalniIdNavrhuZmeny>
+         </vf:Ulice>
