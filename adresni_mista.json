@@ -600,16 +600,6 @@
     }
   },
   {
-    "id": "22293141",
-    "cislo_domovni": "158",
-    "cislo_orientacni": null,
-    "stavebni_objekt_kod": "22152849",
-    "ulice": {
-      "id": "463621",
-      "nazev": "Výstaviště"
-    }
-  },
-  {
     "id": "22293159",
     "cislo_domovni": "159",
     "cislo_orientacni": "9",

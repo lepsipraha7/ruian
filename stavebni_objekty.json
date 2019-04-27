@@ -12991,12 +12991,12 @@
     "typ_stavebniho_objektu": "1",
     "zpusob_vyuziti": "6",
     "druh_konstrukce_kdo": "10",
-    "pocet_bytu": "7",
-    "pocet_podlazi": "1",
+    "pocet_bytu": "14",
+    "pocet_podlazi": "6",
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "1",
     "propojeni_vodovod_kod": "1",
-    "vybaveni_vytahem_kod": "2",
+    "vybaveni_vytahem_kod": "1",
     "zpusob_vytapeni_kod": "2"
   },
   {
@@ -14911,7 +14911,7 @@
     "typ_stavebniho_objektu": "1",
     "zpusob_vyuziti": "6",
     "druh_konstrukce_kdo": null,
-    "pocet_bytu": "14",
+    "pocet_bytu": "15",
     "pocet_podlazi": null,
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "1",
@@ -38654,32 +38654,6 @@
     "zpusob_vytapeni_kod": "9"
   },
   {
-    "id": "22152849",
-    "cast_obce": "490024",
-    "adresni_mista": [
-      {
-        "id": "22293141",
-        "cislo_domovni": "158",
-        "cislo_orientacni": null,
-        "stavebni_objekt_kod": "22152849",
-        "ulice": {
-          "id": "463621",
-          "nazev": "Výstaviště"
-        }
-      }
-    ],
-    "typ_stavebniho_objektu": "1",
-    "zpusob_vyuziti": null,
-    "druh_konstrukce_kdo": "9",
-    "pocet_bytu": "0",
-    "pocet_podlazi": null,
-    "pripojeni_kanalizace_kod": "9",
-    "pripojeni_plyn_kod": "9",
-    "propojeni_vodovod_kod": "9",
-    "vybaveni_vytahem_kod": "9",
-    "zpusob_vytapeni_kod": "9"
-  },
-  {
     "id": "22152857",
     "cast_obce": "490024",
     "adresni_mista": [
@@ -45551,15 +45525,15 @@
       }
     ],
     "typ_stavebniho_objektu": "1",
-    "zpusob_vyuziti": "3",
-    "druh_konstrukce_kdo": "9",
-    "pocet_bytu": "1",
+    "zpusob_vyuziti": "15",
+    "druh_konstrukce_kdo": "10",
+    "pocet_bytu": "0",
     "pocet_podlazi": "1",
-    "pripojeni_kanalizace_kod": "9",
-    "pripojeni_plyn_kod": "9",
-    "propojeni_vodovod_kod": "9",
+    "pripojeni_kanalizace_kod": "1",
+    "pripojeni_plyn_kod": "3",
+    "propojeni_vodovod_kod": "1",
     "vybaveni_vytahem_kod": "9",
-    "zpusob_vytapeni_kod": "9"
+    "zpusob_vytapeni_kod": "2"
   },
   {
     "id": "22155287",
@@ -54093,23 +54067,6 @@
     "zpusob_vytapeni_kod": null
   },
   {
-    "id": "46817506",
-    "cast_obce": null,
-    "adresni_mista": [
-
-    ],
-    "typ_stavebniho_objektu": "3",
-    "zpusob_vyuziti": "5",
-    "druh_konstrukce_kdo": null,
-    "pocet_bytu": null,
-    "pocet_podlazi": null,
-    "pripojeni_kanalizace_kod": null,
-    "pripojeni_plyn_kod": null,
-    "propojeni_vodovod_kod": null,
-    "vybaveni_vytahem_kod": null,
-    "zpusob_vytapeni_kod": null
-  },
-  {
     "id": "46817514",
     "cast_obce": null,
     "adresni_mista": [
@@ -55199,23 +55156,6 @@
   },
   {
     "id": "46838937",
-    "cast_obce": null,
-    "adresni_mista": [
-
-    ],
-    "typ_stavebniho_objektu": "3",
-    "zpusob_vyuziti": "19",
-    "druh_konstrukce_kdo": null,
-    "pocet_bytu": null,
-    "pocet_podlazi": null,
-    "pripojeni_kanalizace_kod": null,
-    "pripojeni_plyn_kod": null,
-    "propojeni_vodovod_kod": null,
-    "vybaveni_vytahem_kod": null,
-    "zpusob_vytapeni_kod": null
-  },
-  {
-    "id": "46838945",
     "cast_obce": null,
     "adresni_mista": [
 
