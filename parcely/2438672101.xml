@@ -13,10 +13,10 @@
             <pai:RizeniId>9615992101</pai:RizeniId>
             <pai:ZpusobyOchranyPozemku>
                <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>0</com:IdTransakce>
-                  <com:RizeniId>9615992101</com:RizeniId>
+                  <com:Kod>17</com:Kod>
+                  <com:TypOchranyKod>2</com:TypOchranyKod>
+                  <com:IdTransakce>2753240</com:IdTransakce>
+                  <com:RizeniId>62998149010</com:RizeniId>
                </com:ZpusobOchrany>
             </pai:ZpusobyOchranyPozemku>
             <pai:Geometrie>

@@ -2,21 +2,21 @@
             <pai:Id>2303009101</pai:Id>
             <pai:KmenoveCislo>525</pai:KmenoveCislo>
             <pai:PododdeleniCisla>1</pai:PododdeleniCisla>
-            <pai:VymeraParcely>1276</pai:VymeraParcely>
+            <pai:VymeraParcely>999</pai:VymeraParcely>
             <pai:DruhCislovaniKod>2</pai:DruhCislovaniKod>
             <pai:DruhPozemkuKod>13</pai:DruhPozemkuKod>
             <pai:KatastralniUzemi>
                <kui:Kod>730122</kui:Kod>
             </pai:KatastralniUzemi>
-            <pai:PlatiOd>2009-06-22T00:00:00</pai:PlatiOd>
-            <pai:IdTransakce>0</pai:IdTransakce>
-            <pai:RizeniId>9615992101</pai:RizeniId>
+            <pai:PlatiOd>2019-02-04T00:00:00</pai:PlatiOd>
+            <pai:IdTransakce>2740436</pai:IdTransakce>
+            <pai:RizeniId>62936259010</pai:RizeniId>
             <pai:ZpusobyOchranyPozemku>
                <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>0</com:IdTransakce>
-                  <com:RizeniId>9615992101</com:RizeniId>
+                  <com:Kod>17</com:Kod>
+                  <com:TypOchranyKod>2</com:TypOchranyKod>
+                  <com:IdTransakce>2740436</com:IdTransakce>
+                  <com:RizeniId>62936259010</com:RizeniId>
                </com:ZpusobOchrany>
             </pai:ZpusobyOchranyPozemku>
             <pai:Geometrie>

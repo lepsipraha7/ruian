@@ -4,7 +4,7 @@
                <com:CisloDomovni>302</com:CisloDomovni>
             </soi:CislaDomovni>
             <soi:IdentifikacniParcela>
-               <pai:Id>2303019101</pai:Id>
+               <pai:Id>69020837010</pai:Id>
             </soi:IdentifikacniParcela>
             <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
             <soi:ZpusobVyuzitiKod>19</soi:ZpusobVyuzitiKod>
@@ -14,9 +14,9 @@
             <soi:Momc>
                <mci:Kod>500186</mci:Kod>
             </soi:Momc>
-            <soi:PlatiOd>2013-11-15T00:00:00</soi:PlatiOd>
-            <soi:GlobalniIdNavrhuZmeny>453978</soi:GlobalniIdNavrhuZmeny>
-            <soi:IdTransakce>396911</soi:IdTransakce>
+            <soi:PlatiOd>2019-02-04T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1944501</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>2740577</soi:IdTransakce>
             <soi:IsknBudovaId>976649101</soi:IsknBudovaId>
             <soi:DruhKonstrukceKod>9</soi:DruhKonstrukceKod>
             <soi:PocetBytu>0</soi:PocetBytu>
@@ -28,10 +28,10 @@
             <soi:ZpusobVytapeniKod>9</soi:ZpusobVytapeniKod>
             <soi:ZpusobyOchrany>
                <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>0</com:IdTransakce>
-                  <com:RizeniId>9615992101</com:RizeniId>
+                  <com:Kod>17</com:Kod>
+                  <com:TypOchranyKod>2</com:TypOchranyKod>
+                  <com:IdTransakce>2740436</com:IdTransakce>
+                  <com:RizeniId>62936259010</com:RizeniId>
                </com:ZpusobOchrany>
             </soi:ZpusobyOchrany>
             <soi:Geometrie>

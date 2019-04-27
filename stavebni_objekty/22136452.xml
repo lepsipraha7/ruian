@@ -14,9 +14,9 @@
             <soi:Momc>
                <mci:Kod>500186</mci:Kod>
             </soi:Momc>
-            <soi:PlatiOd>2014-05-07T00:00:00</soi:PlatiOd>
-            <soi:GlobalniIdNavrhuZmeny>576425</soi:GlobalniIdNavrhuZmeny>
-            <soi:IdTransakce>597265</soi:IdTransakce>
+            <soi:PlatiOd>2019-02-13T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1950878</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>2753320</soi:IdTransakce>
             <soi:IsknBudovaId>977169101</soi:IsknBudovaId>
             <soi:PocetBytu>18</soi:PocetBytu>
             <soi:PocetPodlazi>4</soi:PocetPodlazi>
@@ -26,10 +26,10 @@
             <soi:ZpusobVytapeniKod>4</soi:ZpusobVytapeniKod>
             <soi:ZpusobyOchrany>
                <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>0</com:IdTransakce>
-                  <com:RizeniId>9615992101</com:RizeniId>
+                  <com:Kod>17</com:Kod>
+                  <com:TypOchranyKod>2</com:TypOchranyKod>
+                  <com:IdTransakce>2753240</com:IdTransakce>
+                  <com:RizeniId>62998149010</com:RizeniId>
                </com:ZpusobOchrany>
             </soi:ZpusobyOchrany>
             <soi:Geometrie>
@@ -37,7 +37,7 @@
                   <gml:Point gml:id="DSO.22136452"
                              srsName="urn:ogc:def:crs:EPSG::5514"
                              srsDimension="2">
-                     <gml:pos>-740771.66 -1041105.77</gml:pos>
+                     <gml:pos>-740772.07 -1041105.03</gml:pos>
                   </gml:Point>
                </soi:DefinicniBod>
             </soi:Geometrie>
