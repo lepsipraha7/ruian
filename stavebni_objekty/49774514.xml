@@ -10,16 +10,7 @@
             </soi:Momc>
             <soi:PlatiOd>2013-02-08T00:00:00</soi:PlatiOd>
             <soi:GlobalniIdNavrhuZmeny>378181</soi:GlobalniIdNavrhuZmeny>
-            <soi:IdTransakce>325286</soi:IdTransakce>
-            <soi:IsknBudovaId>1263401101</soi:IsknBudovaId>
-            <soi:ZpusobyOchrany>
-               <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>914122</com:IdTransakce>
-                  <com:RizeniId>9615992101</com:RizeniId>
-               </com:ZpusobOchrany>
-            </soi:ZpusobyOchrany>
+            <soi:IdTransakce>2795891</soi:IdTransakce>
             <soi:Geometrie>
                <soi:DefinicniBod>
                   <gml:Point gml:id="DSO.49774514"

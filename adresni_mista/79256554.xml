@@ -1,7 +1,8 @@
-         <vf:AdresniMisto gml:id="AD.22297898">
-            <ami:Kod>22297898</ami:Kod>
+         <vf:AdresniMisto gml:id="AD.79256554">
+            <ami:Kod>79256554</ami:Kod>
             <ami:CisloDomovni>313</ami:CisloDomovni>
             <ami:CisloOrientacni>10</ami:CisloOrientacni>
+            <ami:CisloOrientacniPismeno>a</ami:CisloOrientacniPismeno>
             <ami:Psc>17000</ami:Psc>
             <ami:StavebniObjekt>
                <soi:Kod>22137157</soi:Kod>
@@ -16,10 +17,10 @@
             <ami:Geometrie>
                <ami:DefinicniBod>
                   <ami:AdresniBod>
-                     <gml:Point gml:id="DAM.22297898.1"
+                     <gml:Point gml:id="DAM.79256554.1"
                                 srsName="urn:ogc:def:crs:EPSG::5514"
                                 srsDimension="2">
-                        <gml:pos>-740748.56 -1041597.63</gml:pos>
+                        <gml:pos>-740745.91 -1041572.59</gml:pos>
                      </gml:Point>
                   </ami:AdresniBod>
                </ami:DefinicniBod>

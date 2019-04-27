@@ -1,22 +1,16 @@
          <vf:Parcela gml:id="PA.2304680101">
             <pai:Id>2304680101</pai:Id>
             <pai:KmenoveCislo>1962</pai:KmenoveCislo>
-            <pai:VymeraParcely>1144</pai:VymeraParcely>
+            <pai:VymeraParcely>1145</pai:VymeraParcely>
             <pai:DruhCislovaniKod>2</pai:DruhCislovaniKod>
             <pai:DruhPozemkuKod>13</pai:DruhPozemkuKod>
             <pai:KatastralniUzemi>
                <kui:Kod>730122</kui:Kod>
             </pai:KatastralniUzemi>
-            <pai:PlatiOd>2009-06-22T00:00:00</pai:PlatiOd>
-            <pai:IdTransakce>0</pai:IdTransakce>
-            <pai:RizeniId>9615992101</pai:RizeniId>
+            <pai:PlatiOd>2019-03-27T00:00:00</pai:PlatiOd>
+            <pai:IdTransakce>2806200</pai:IdTransakce>
+            <pai:RizeniId>63532547010</pai:RizeniId>
             <pai:ZpusobyOchranyPozemku>
-               <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>0</com:IdTransakce>
-                  <com:RizeniId>9615992101</com:RizeniId>
-               </com:ZpusobOchrany>
                <com:ZpusobOchrany>
                   <com:Kod>17</com:Kod>
                   <com:TypOchranyKod>2</com:TypOchranyKod>

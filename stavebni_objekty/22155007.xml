@@ -7,16 +7,16 @@
                <pai:Id>2401936101</pai:Id>
             </soi:IdentifikacniParcela>
             <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
-            <soi:ZpusobVyuzitiKod>3</soi:ZpusobVyuzitiKod>
+            <soi:ZpusobVyuzitiKod>11</soi:ZpusobVyuzitiKod>
             <soi:CastObce>
                <coi:Kod>490024</coi:Kod>
             </soi:CastObce>
             <soi:Momc>
                <mci:Kod>500186</mci:Kod>
             </soi:Momc>
-            <soi:PlatiOd>2011-07-01T00:00:00</soi:PlatiOd>
-            <soi:GlobalniIdNavrhuZmeny>0</soi:GlobalniIdNavrhuZmeny>
-            <soi:IdTransakce>0</soi:IdTransakce>
+            <soi:PlatiOd>2019-03-29T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1979131</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>2810550</soi:IdTransakce>
             <soi:IsknBudovaId>1018658101</soi:IsknBudovaId>
             <soi:PocetBytu>0</soi:PocetBytu>
             <soi:PripojeniKanalizaceKod>8</soi:PripojeniKanalizaceKod>

@@ -1,7 +1,7 @@
-         <vf:AdresniMisto gml:id="AD.30488621">
-            <ami:Kod>30488621</ami:Kod>
+         <vf:AdresniMisto gml:id="AD.79256694">
+            <ami:Kod>79256694</ami:Kod>
             <ami:CisloDomovni>313</ami:CisloDomovni>
-            <ami:CisloOrientacni>22</ami:CisloOrientacni>
+            <ami:CisloOrientacni>14</ami:CisloOrientacni>
             <ami:Psc>17000</ami:Psc>
             <ami:StavebniObjekt>
                <soi:Kod>22137157</soi:Kod>
@@ -10,16 +10,16 @@
                <uli:Kod>445436</uli:Kod>
             </ami:Ulice>
             <ami:VOKod>26071</ami:VOKod>
-            <ami:PlatiOd>2013-12-10T00:00:00</ami:PlatiOd>
-            <ami:IdTransakce>428711</ami:IdTransakce>
-            <ami:GlobalniIdNavrhuZmeny>471923</ami:GlobalniIdNavrhuZmeny>
+            <ami:PlatiOd>2019-03-27T00:00:00</ami:PlatiOd>
+            <ami:IdTransakce>2806681</ami:IdTransakce>
+            <ami:GlobalniIdNavrhuZmeny>1977167</ami:GlobalniIdNavrhuZmeny>
             <ami:Geometrie>
                <ami:DefinicniBod>
                   <ami:AdresniBod>
-                     <gml:Point gml:id="DAM.30488621.1"
+                     <gml:Point gml:id="DAM.79256694.1"
                                 srsName="urn:ogc:def:crs:EPSG::5514"
                                 srsDimension="2">
-                        <gml:pos>-740724.00 -1041543.00</gml:pos>
+                        <gml:pos>-740725.15 -1041543.13</gml:pos>
                      </gml:Point>
                   </ami:AdresniBod>
                </ami:DefinicniBod>

@@ -14,9 +14,9 @@
             <soi:Momc>
                <mci:Kod>500186</mci:Kod>
             </soi:Momc>
-            <soi:PlatiOd>2019-02-01T00:00:00</soi:PlatiOd>
-            <soi:GlobalniIdNavrhuZmeny>1943988</soi:GlobalniIdNavrhuZmeny>
-            <soi:IdTransakce>2739522</soi:IdTransakce>
+            <soi:PlatiOd>2019-03-20T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1973129</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>2798381</soi:IdTransakce>
             <soi:IsknBudovaId>26588439010</soi:IsknBudovaId>
             <soi:DruhKonstrukceKod>9</soi:DruhKonstrukceKod>
             <soi:PocetBytu>0</soi:PocetBytu>
@@ -39,7 +39,7 @@
                   <gml:Point gml:id="DSO.22137157"
                              srsName="urn:ogc:def:crs:EPSG::5514"
                              srsDimension="2">
-                     <gml:pos>-740694.89 -1041602.37</gml:pos>
+                     <gml:pos>-740740.47 -1041575.76</gml:pos>
                   </gml:Point>
                </soi:DefinicniBod>
             </soi:Geometrie>

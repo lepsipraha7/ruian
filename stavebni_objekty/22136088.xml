@@ -28,10 +28,10 @@
             <soi:ZpusobVytapeniKod>1</soi:ZpusobVytapeniKod>
             <soi:ZpusobyOchrany>
                <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>0</com:IdTransakce>
-                  <com:RizeniId>9615992101</com:RizeniId>
+                  <com:Kod>17</com:Kod>
+                  <com:TypOchranyKod>2</com:TypOchranyKod>
+                  <com:IdTransakce>2806200</com:IdTransakce>
+                  <com:RizeniId>63532547010</com:RizeniId>
                </com:ZpusobOchrany>
                <com:ZpusobOchrany>
                   <com:Kod>18</com:Kod>

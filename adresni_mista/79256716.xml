@@ -1,13 +1,13 @@
-         <vf:AdresniMisto gml:id="AD.22297898">
-            <ami:Kod>22297898</ami:Kod>
+         <vf:AdresniMisto gml:id="AD.79256716">
+            <ami:Kod>79256716</ami:Kod>
             <ami:CisloDomovni>313</ami:CisloDomovni>
-            <ami:CisloOrientacni>10</ami:CisloOrientacni>
+            <ami:CisloOrientacni>16</ami:CisloOrientacni>
             <ami:Psc>17000</ami:Psc>
             <ami:StavebniObjekt>
                <soi:Kod>22137157</soi:Kod>
             </ami:StavebniObjekt>
             <ami:Ulice>
-               <uli:Kod>463248</uli:Kod>
+               <uli:Kod>445436</uli:Kod>
             </ami:Ulice>
             <ami:VOKod>26071</ami:VOKod>
             <ami:PlatiOd>2019-03-27T00:00:00</ami:PlatiOd>
@@ -16,10 +16,10 @@
             <ami:Geometrie>
                <ami:DefinicniBod>
                   <ami:AdresniBod>
-                     <gml:Point gml:id="DAM.22297898.1"
+                     <gml:Point gml:id="DAM.79256716.1"
                                 srsName="urn:ogc:def:crs:EPSG::5514"
                                 srsDimension="2">
-                        <gml:pos>-740748.56 -1041597.63</gml:pos>
+                        <gml:pos>-740714.99 -1041587.91</gml:pos>
                      </gml:Point>
                   </ami:AdresniBod>
                </ami:DefinicniBod>
