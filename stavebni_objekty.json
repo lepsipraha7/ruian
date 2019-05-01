@@ -3157,10 +3157,10 @@
       }
     ],
     "typ_stavebniho_objektu": "1",
-    "zpusob_vyuziti": "7",
+    "zpusob_vyuziti": "20",
     "druh_konstrukce_kdo": "10",
-    "pocet_bytu": "1",
-    "pocet_podlazi": "1",
+    "pocet_bytu": "2",
+    "pocet_podlazi": "6",
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "1",
     "propojeni_vodovod_kod": "1",
@@ -3377,15 +3377,15 @@
       }
     ],
     "typ_stavebniho_objektu": "1",
-    "zpusob_vyuziti": "12",
-    "druh_konstrukce_kdo": "9",
-    "pocet_bytu": "0",
-    "pocet_podlazi": "1",
-    "pripojeni_kanalizace_kod": "9",
-    "pripojeni_plyn_kod": "9",
-    "propojeni_vodovod_kod": "9",
-    "vybaveni_vytahem_kod": "9",
-    "zpusob_vytapeni_kod": "9"
+    "zpusob_vyuziti": "6",
+    "druh_konstrukce_kdo": "11",
+    "pocet_bytu": "122",
+    "pocet_podlazi": "10",
+    "pripojeni_kanalizace_kod": "1",
+    "pripojeni_plyn_kod": "3",
+    "propojeni_vodovod_kod": "1",
+    "vybaveni_vytahem_kod": "1",
+    "zpusob_vytapeni_kod": "2"
   },
   {
     "id": "22137165",
@@ -7653,14 +7653,14 @@
       }
     ],
     "typ_stavebniho_objektu": "1",
-    "zpusob_vyuziti": "15",
+    "zpusob_vyuziti": "11",
     "druh_konstrukce_kdo": "9",
     "pocet_bytu": "0",
-    "pocet_podlazi": "1",
-    "pripojeni_kanalizace_kod": "9",
+    "pocet_podlazi": "6",
+    "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "9",
-    "propojeni_vodovod_kod": "9",
-    "vybaveni_vytahem_kod": "9",
+    "propojeni_vodovod_kod": "1",
+    "vybaveni_vytahem_kod": "1",
     "zpusob_vytapeni_kod": "9"
   },
   {
@@ -8889,7 +8889,7 @@
       }
     ],
     "typ_stavebniho_objektu": "1",
-    "zpusob_vyuziti": "6",
+    "zpusob_vyuziti": "14",
     "druh_konstrukce_kdo": "9",
     "pocet_bytu": "0",
     "pocet_podlazi": "5",
@@ -17975,13 +17975,13 @@
     "typ_stavebniho_objektu": "1",
     "zpusob_vyuziti": "6",
     "druh_konstrukce_kdo": "10",
-    "pocet_bytu": "16",
+    "pocet_bytu": "18",
     "pocet_podlazi": "7",
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "9",
     "propojeni_vodovod_kod": "1",
     "vybaveni_vytahem_kod": "1",
-    "zpusob_vytapeni_kod": "4"
+    "zpusob_vytapeni_kod": "3"
   },
   {
     "id": "22142274",
@@ -37991,8 +37991,8 @@
     "typ_stavebniho_objektu": "1",
     "zpusob_vyuziti": "6",
     "druh_konstrukce_kdo": "10",
-    "pocet_bytu": "1",
-    "pocet_podlazi": "5",
+    "pocet_bytu": "12",
+    "pocet_podlazi": "6",
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "1",
     "propojeni_vodovod_kod": "1",
@@ -42100,11 +42100,11 @@
     "zpusob_vyuziti": "6",
     "druh_konstrukce_kdo": "10",
     "pocet_bytu": "10",
-    "pocet_podlazi": "1",
+    "pocet_podlazi": "6",
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "1",
     "propojeni_vodovod_kod": "1",
-    "vybaveni_vytahem_kod": "2",
+    "vybaveni_vytahem_kod": "1",
     "zpusob_vytapeni_kod": "4"
   },
   {
@@ -42126,11 +42126,11 @@
     "zpusob_vyuziti": "6",
     "druh_konstrukce_kdo": "10",
     "pocet_bytu": "12",
-    "pocet_podlazi": "1",
+    "pocet_podlazi": "7",
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "1",
     "propojeni_vodovod_kod": "1",
-    "vybaveni_vytahem_kod": "2",
+    "vybaveni_vytahem_kod": "1",
     "zpusob_vytapeni_kod": "4"
   },
   {
@@ -44913,12 +44913,12 @@
     "typ_stavebniho_objektu": "1",
     "zpusob_vyuziti": "6",
     "druh_konstrukce_kdo": "10",
-    "pocet_bytu": "16",
-    "pocet_podlazi": "5",
+    "pocet_bytu": "23",
+    "pocet_podlazi": "7",
     "pripojeni_kanalizace_kod": "1",
     "pripojeni_plyn_kod": "1",
     "propojeni_vodovod_kod": "1",
-    "vybaveni_vytahem_kod": "2",
+    "vybaveni_vytahem_kod": "1",
     "zpusob_vytapeni_kod": "4"
   },
   {
@@ -47393,16 +47393,6 @@
     "id": "25323903",
     "cast_obce": "490067",
     "adresni_mista": [
-      {
-        "id": "25821199",
-        "cislo_domovni": "1564",
-        "cislo_orientacni": "57",
-        "stavebni_objekt_kod": "25323903",
-        "ulice": {
-          "id": "456438",
-          "nazev": "Tusarova"
-        }
-      },
       {
         "id": "25814761",
         "cislo_domovni": "1564",
