@@ -14,17 +14,17 @@
             <soi:Momc>
                <mci:Kod>500186</mci:Kod>
             </soi:Momc>
-            <soi:PlatiOd>2019-01-10T00:00:00</soi:PlatiOd>
-            <soi:GlobalniIdNavrhuZmeny>1929282</soi:GlobalniIdNavrhuZmeny>
-            <soi:IdTransakce>2711184</soi:IdTransakce>
+            <soi:PlatiOd>2019-04-03T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1982076</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>2816151</soi:IdTransakce>
             <soi:IsknBudovaId>1018831101</soi:IsknBudovaId>
             <soi:DruhKonstrukceKod>10</soi:DruhKonstrukceKod>
-            <soi:PocetBytu>16</soi:PocetBytu>
-            <soi:PocetPodlazi>5</soi:PocetPodlazi>
+            <soi:PocetBytu>23</soi:PocetBytu>
+            <soi:PocetPodlazi>7</soi:PocetPodlazi>
             <soi:PripojeniKanalizaceKod>1</soi:PripojeniKanalizaceKod>
             <soi:PripojeniPlynKod>1</soi:PripojeniPlynKod>
             <soi:PripojeniVodovodKod>1</soi:PripojeniVodovodKod>
-            <soi:VybaveniVytahemKod>2</soi:VybaveniVytahemKod>
+            <soi:VybaveniVytahemKod>1</soi:VybaveniVytahemKod>
             <soi:ZpusobVytapeniKod>4</soi:ZpusobVytapeniKod>
             <soi:ZpusobyOchrany>
                <com:ZpusobOchrany>

@@ -14,17 +14,17 @@
             <soi:Momc>
                <mci:Kod>500186</mci:Kod>
             </soi:Momc>
-            <soi:PlatiOd>2013-11-15T00:00:00</soi:PlatiOd>
-            <soi:GlobalniIdNavrhuZmeny>453979</soi:GlobalniIdNavrhuZmeny>
-            <soi:IdTransakce>396912</soi:IdTransakce>
+            <soi:PlatiOd>2019-04-24T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1993475</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>2839057</soi:IdTransakce>
             <soi:IsknBudovaId>1018843101</soi:IsknBudovaId>
             <soi:DruhKonstrukceKod>10</soi:DruhKonstrukceKod>
             <soi:PocetBytu>12</soi:PocetBytu>
-            <soi:PocetPodlazi>1</soi:PocetPodlazi>
+            <soi:PocetPodlazi>7</soi:PocetPodlazi>
             <soi:PripojeniKanalizaceKod>1</soi:PripojeniKanalizaceKod>
             <soi:PripojeniPlynKod>1</soi:PripojeniPlynKod>
             <soi:PripojeniVodovodKod>1</soi:PripojeniVodovodKod>
-            <soi:VybaveniVytahemKod>2</soi:VybaveniVytahemKod>
+            <soi:VybaveniVytahemKod>1</soi:VybaveniVytahemKod>
             <soi:ZpusobVytapeniKod>4</soi:ZpusobVytapeniKod>
             <soi:ZpusobyOchrany>
                <com:ZpusobOchrany>
@@ -39,7 +39,7 @@
                   <gml:Point gml:id="DSO.22154051"
                              srsName="urn:ogc:def:crs:EPSG::5514"
                              srsDimension="2">
-                     <gml:pos>-742610.31 -1041367.56</gml:pos>
+                     <gml:pos>-742611.01 -1041369.10</gml:pos>
                   </gml:Point>
                </soi:DefinicniBod>
             </soi:Geometrie>

@@ -3,14 +3,15 @@
             <pai:KmenoveCislo>1850</pai:KmenoveCislo>
             <pai:PododdeleniCisla>30</pai:PododdeleniCisla>
             <pai:VymeraParcely>132</pai:VymeraParcely>
+            <pai:ZpusobyVyuzitiPozemku>26</pai:ZpusobyVyuzitiPozemku>
             <pai:DruhCislovaniKod>2</pai:DruhCislovaniKod>
-            <pai:DruhPozemkuKod>13</pai:DruhPozemkuKod>
+            <pai:DruhPozemkuKod>14</pai:DruhPozemkuKod>
             <pai:KatastralniUzemi>
                <kui:Kod>730106</kui:Kod>
             </pai:KatastralniUzemi>
-            <pai:PlatiOd>2006-11-22T00:00:00</pai:PlatiOd>
-            <pai:IdTransakce>0</pai:IdTransakce>
-            <pai:RizeniId>8848704101</pai:RizeniId>
+            <pai:PlatiOd>2019-04-23T00:00:00</pai:PlatiOd>
+            <pai:IdTransakce>2837512</pai:IdTransakce>
+            <pai:RizeniId>63888291010</pai:RizeniId>
             <pai:ZpusobyOchranyPozemku>
                <com:ZpusobOchrany>
                   <com:Kod>4</com:Kod>
@@ -30,7 +31,7 @@
                   <gml:Point gml:id="DPA.2403689101"
                              srsName="urn:ogc:def:crs:EPSG::5514"
                              srsDimension="2">
-                     <gml:pos>-741815.14 -1041028.45</gml:pos>
+                     <gml:pos>-741811.52 -1041028.69</gml:pos>
                   </gml:Point>
                </pai:DefinicniBod>
             </pai:Geometrie>

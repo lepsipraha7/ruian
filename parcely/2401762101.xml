@@ -12,12 +12,6 @@
             <pai:RizeniId>8848704101</pai:RizeniId>
             <pai:ZpusobyOchranyPozemku>
                <com:ZpusobOchrany>
-                  <com:Kod>4</com:Kod>
-                  <com:TypOchranyKod>0</com:TypOchranyKod>
-                  <com:IdTransakce>0</com:IdTransakce>
-                  <com:RizeniId>8848704101</com:RizeniId>
-               </com:ZpusobOchrany>
-               <com:ZpusobOchrany>
                   <com:Kod>17</com:Kod>
                   <com:TypOchranyKod>2</com:TypOchranyKod>
                   <com:IdTransakce>643259</com:IdTransakce>

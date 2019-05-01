@@ -11,16 +11,16 @@
                <uli:Kod>463248</uli:Kod>
             </ami:Ulice>
             <ami:VOKod>26071</ami:VOKod>
-            <ami:PlatiOd>2019-03-27T00:00:00</ami:PlatiOd>
-            <ami:IdTransakce>2806681</ami:IdTransakce>
-            <ami:GlobalniIdNavrhuZmeny>1977167</ami:GlobalniIdNavrhuZmeny>
+            <ami:PlatiOd>2019-04-04T00:00:00</ami:PlatiOd>
+            <ami:IdTransakce>2817157</ami:IdTransakce>
+            <ami:GlobalniIdNavrhuZmeny>1980739</ami:GlobalniIdNavrhuZmeny>
             <ami:Geometrie>
                <ami:DefinicniBod>
                   <ami:AdresniBod>
                      <gml:Point gml:id="DAM.79256554.1"
                                 srsName="urn:ogc:def:crs:EPSG::5514"
                                 srsDimension="2">
-                        <gml:pos>-740745.91 -1041572.59</gml:pos>
+                        <gml:pos>-740745.91 -1041570.82</gml:pos>
                      </gml:Point>
                   </ami:AdresniBod>
                </ami:DefinicniBod>
