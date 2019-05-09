@@ -1,0 +1,32 @@
+         <vf:StavebniObjekt gml:id="SO.42867720">
+            <soi:Kod>42867720</soi:Kod>
+            <soi:IdentifikacniParcela>
+               <pai:Id>2303097101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>3</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>18</soi:ZpusobVyuzitiKod>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2013-02-08T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>378181</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>318059</soi:IdTransakce>
+            <soi:IsknBudovaId>978103101</soi:IsknBudovaId>
+            <soi:ZpusobyOchrany>
+               <com:ZpusobOchrany>
+                  <com:Kod>4</com:Kod>
+                  <com:TypOchranyKod>0</com:TypOchranyKod>
+                  <com:IdTransakce>914122</com:IdTransakce>
+                  <com:RizeniId>9615992101</com:RizeniId>
+               </com:ZpusobOchrany>
+            </soi:ZpusobyOchrany>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.42867720"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-740846.06 -1040934.80</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

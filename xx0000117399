@@ -1,0 +1,24 @@
+         <vf:StavebniObjekt gml:id="SO.43095844">
+            <soi:Kod>43095844</soi:Kod>
+            <soi:IdentifikacniParcela>
+               <pai:Id>2698237101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>3</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>12</soi:ZpusobVyuzitiKod>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2013-02-08T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>378181</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>318396</soi:IdTransakce>
+            <soi:IsknBudovaId>1175067101</soi:IsknBudovaId>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.43095844"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-741452.67 -1041343.01</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

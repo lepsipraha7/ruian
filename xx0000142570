@@ -1,0 +1,39 @@
+         <vf:StavebniObjekt gml:id="SO.51524708">
+            <soi:Kod>51524708</soi:Kod>
+            <soi:CislaDomovni>
+               <com:CisloDomovni>1601</com:CisloDomovni>
+            </soi:CislaDomovni>
+            <soi:IdentifikacniParcela>
+               <pai:Id>2303795101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>6</soi:ZpusobVyuzitiKod>
+            <soi:CastObce>
+               <coi:Kod>490067</coi:Kod>
+            </soi:CastObce>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2016-10-10T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>1107226</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>1486149</soi:IdTransakce>
+            <soi:IsknBudovaId>15240406010</soi:IsknBudovaId>
+            <soi:PocetBytu>0</soi:PocetBytu>
+            <soi:ZpusobyOchrany>
+               <com:ZpusobOchrany>
+                  <com:Kod>4</com:Kod>
+                  <com:TypOchranyKod>0</com:TypOchranyKod>
+                  <com:IdTransakce>914122</com:IdTransakce>
+                  <com:RizeniId>21457392010</com:RizeniId>
+               </com:ZpusobOchrany>
+            </soi:ZpusobyOchrany>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.51524708"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-740463.30 -1041732.64</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>

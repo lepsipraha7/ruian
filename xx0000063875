@@ -1,0 +1,46 @@
+         <vf:StavebniObjekt gml:id="SO.22152768">
+            <soi:Kod>22152768</soi:Kod>
+            <soi:CislaDomovni>
+               <com:CisloDomovni>146</com:CisloDomovni>
+            </soi:CislaDomovni>
+            <soi:IdentifikacniParcela>
+               <pai:Id>2401762101</pai:Id>
+            </soi:IdentifikacniParcela>
+            <soi:TypStavebnihoObjektuKod>1</soi:TypStavebnihoObjektuKod>
+            <soi:ZpusobVyuzitiKod>3</soi:ZpusobVyuzitiKod>
+            <soi:CastObce>
+               <coi:Kod>490024</coi:Kod>
+            </soi:CastObce>
+            <soi:Momc>
+               <mci:Kod>500186</mci:Kod>
+            </soi:Momc>
+            <soi:PlatiOd>2013-11-15T00:00:00</soi:PlatiOd>
+            <soi:GlobalniIdNavrhuZmeny>453979</soi:GlobalniIdNavrhuZmeny>
+            <soi:IdTransakce>396912</soi:IdTransakce>
+            <soi:IsknBudovaId>1019020101</soi:IsknBudovaId>
+            <soi:DruhKonstrukceKod>7</soi:DruhKonstrukceKod>
+            <soi:PocetBytu>10</soi:PocetBytu>
+            <soi:PocetPodlazi>1</soi:PocetPodlazi>
+            <soi:PripojeniKanalizaceKod>1</soi:PripojeniKanalizaceKod>
+            <soi:PripojeniPlynKod>1</soi:PripojeniPlynKod>
+            <soi:PripojeniVodovodKod>1</soi:PripojeniVodovodKod>
+            <soi:VybaveniVytahemKod>2</soi:VybaveniVytahemKod>
+            <soi:ZpusobVytapeniKod>4</soi:ZpusobVytapeniKod>
+            <soi:ZpusobyOchrany>
+               <com:ZpusobOchrany>
+                  <com:Kod>17</com:Kod>
+                  <com:TypOchranyKod>2</com:TypOchranyKod>
+                  <com:IdTransakce>2811823</com:IdTransakce>
+                  <com:RizeniId>63668072010</com:RizeniId>
+               </com:ZpusobOchrany>
+            </soi:ZpusobyOchrany>
+            <soi:Geometrie>
+               <soi:DefinicniBod>
+                  <gml:Point gml:id="DSO.22152768"
+                             srsName="urn:ogc:def:crs:EPSG::5514"
+                             srsDimension="2">
+                     <gml:pos>-742504.19 -1041570.51</gml:pos>
+                  </gml:Point>
+               </soi:DefinicniBod>
+            </soi:Geometrie>
+         </vf:StavebniObjekt>
